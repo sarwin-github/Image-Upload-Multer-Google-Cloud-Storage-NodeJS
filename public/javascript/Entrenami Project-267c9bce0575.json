@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "elite-bedrock-162205",
+  "private_key_id": "267c9bce057514fdf9d27bf2fb6263c0924a5530",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0C7F5MDZ7zRVS\nrWEbPfyEp3Dml47UzVmWcV/UG4tQD6yjuhKgTvn0R6g0LQnKC6Dz/QD9GDUxjV3d\nyktKX0Ucwqj093sQ8/iBaZqWZwF41Et7G1zxuqiOIn923YDKOYfuPvmyZykLV5Er\nGNfEZQKUSyKl6z26amdFqW+E5JX0h8yDcKZPJ9OeM/ZQwU9vRX6ilZzT6VHagCPQ\nKldmu1YUIj1amQy8Gl0zxSfj21+5KRP30OvBc1o425mi0ZHZQTi4I1vhz7U5Micc\nNFH5oOcw7yIVvaEH4NJtr38GwymgmOo6HYX7eHl0FuYvuxornF6KcP2Iv6fJrMh3\nx8R05P5rAgMBAAECggEAJESEu/4/w2F07aIaQQQUBV67Sd/2uBwjc0AkRxRDVF3L\n73EwhlVSWWhD1DrMUYRVKEDrPZBuSqyI33/7+Z/GSrxVj374rdoPUXZF2w0lyUKu\nb7570v/AK118oqOM6W98V7wczVildnDtv6ox8JBOXDPkZ1rDJPWBFxHB8pmfMVIA\n7qKShfUNNl0D9OsXpuXY70q3oG8TEURbeL8Z5qFViWxv+4QQWTkSgJEZRAska6n4\nEqC2SG7BezGhl0znqq5PXGgWgcNY110jtM4KwRkmTvQo2jvVuyrbKeDsKRgfSStJ\njOfx4a+mSGi4XyYdWxmP0/uOtdwBPgANpQDaB+UOHQKBgQDk9p142Kex+jGm3Q8R\nUR0II8JW0cOv4ICzCYcug4mL24t20RRH5FpJxnJiay1tqPeiyqDcJlO8Tg040iCy\nIZoHi3MHXvs29cHdM7j4lVdArbsbR4d0ja8MgMIP4McmeB0GQqm+lTROwZTvyjso\nSN6+geYpC80yPJi0Jj18ts3oPQKBgQDJTlW/r4ozvpc2mktoK0HXF7drN9uzosP7\nGFzGSSRZJJFHoP3OGMW26oOwtbUBPbUqYpZJRi/b7tZkIexH9zg7VOYHC0D1eFR4\nS1OOYvsJxGElLM+BP41YHYCKA+rX4Ty/KsNMgHbCq1Aypi5iFQZsUJM7jAyRdKiU\nFu2/3pvDxwKBgQDjeLeeFfEU+vJVSw3rMGDdc1liE+iMVUjHltG8vmXqkuWN186E\nVjP1U7jUWpK5fcL48sK5tUI/tHOiXfCpyIRUtpBDZHPEeIhwETDVltkmovNe+MN0\nYkbk7w7d4303lOGRFK27cFSVYfFsAcigDzVso3VcliL4pAc6AzvXKW6MKQKBgASS\n3A3j3h742JSsAsSWHwPVDRzJgxtculktH4Z9yO6hjw9yj/GrzGowf9d2+WrSzRfu\nb32ws4uqrIJP5v9nlYZ7klJcphgtqLWm+HoGs69wH8jpcLl+CScUXIRGPIK1Il0x\niohlbs1TeRn9fpZJ5gB2ADJdJzfyz5W1w6cVVrKnAoGAe/MFnoQUmW+AYxteDk0Q\nQ/9WgG7/EfEitkVcWngpjevBTLSG8/fubw1s/TNJLksiZ5YYlfmAvZPstv1UgSmo\nfmGPM+vGtQsBY9AjjB7To9m1SIqc5+i23pce+Ps5z0QWwLKqw05IziDdIFYtAoXt\nXCU73L+iH+LydNr+CAJEn0g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "elite-bedrock-162205@appspot.gserviceaccount.com",
+  "client_id": "103185156550815613546",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/elite-bedrock-162205%40appspot.gserviceaccount.com"
+}
