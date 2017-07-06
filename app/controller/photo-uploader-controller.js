@@ -38,10 +38,7 @@ module.exports.getUploadForm = (req, res) => {
 module.exports.postUploadPhoto = (req, res) => {
     let album = new Album();
 
-    for(let i=0; i<req.files.length; i++){
-        album.image.addToSet(req.files[i].path);
-    }
-
+    req.files.map(file => album.image.addToSet(file.path));
     album.uploadedBy = req.body.uploadedBy;
 
     album.save((err,result) => {
